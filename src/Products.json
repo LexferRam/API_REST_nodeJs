@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"product": "table",
+		"price": 50,
+		"year": 2009
+	},
+	{
+		"id": 2,
+		"product": "shoes",
+		"price": 100,
+		"year": 2015
+	},
+	{
+		"id": 3,
+		"product": "laptop",
+		"price": 300,
+		"year": 2018
+	},
+	{
+		"id": 4,
+		"product": "tv",
+		"price": 200,
+		"year": 2020
+	},
+	{
+		"id": 5,
+		"product": "cellPhone",
+		"price": 300,
+		"year": 2020
+	},
+	{
+		"id": 6,
+		"product": "earPhones",
+		"price": 30,
+		"year": 2017
+	}
+]
